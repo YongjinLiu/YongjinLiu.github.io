@@ -7,7 +7,7 @@ date: 2016-02-27
 venue: 'I3D'
 tags:
   - Conference Publications
-citation: 'Hui Liang, Jin Wang, Qian Sun, Yong-Jin Liu*, Junsong Yuan, Jun Luo, Ying He (2016) Barehanded Music: Real-time Hand Interaction for Virtual Piano. Proceedings of ACM Symposium on Interactive 3D Graphics and Games (I3D '16), pp. 87-94, 2016.'
+citation: 'Hui Liang, Jin Wang, Qian Sun, Yong-Jin Liu*, Junsong Yuan, Jun Luo, Ying He (2016) Barehanded Music": >-Real-time Hand Interaction for Virtual Piano. Proceedings of ACM Symposium on Interactive 3D Graphics and Games (I3D '16), pp. 87-94, 2016.' ---
 ---
 
 
