@@ -221,6 +221,12 @@ redirect_from:
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_zenglingzhi.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              曾令栀，2021级硕士生（美术学院交叉学科）,本科：芝加哥艺术学院</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
                   <img src="https://yongjinliu.github.io/images/IMG_wangshaofeng.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              王少烽，2021级口腔正畸学博士生，本科：南京医科大学
