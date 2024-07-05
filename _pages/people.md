@@ -185,6 +185,18 @@ redirect_from:
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_shuyezhi.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              舒叶芷, 2019级博士生, 本科：山东大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_zhaowang.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              	赵旺，2019级直博生，本科：清华大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
                   <img src="https://yongjinliu.github.io/images/IMG_sunyanan.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              孙亚男，2020级硕士生，本科：清华大学</td>
@@ -194,6 +206,24 @@ redirect_from:
                   <img src="https://yongjinliu.github.io/images/IMG_Zhan Irvin Haozhe.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              Zhan Irvin Haozhe（詹昊哲），2020级硕士生，本科：清华大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_Jenny Sheng.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              Jenny Sheng （盛芊芊），2022级硕士生，本科：普林斯顿大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_Quentin Xu.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              Quentin Xu (徐功达), 2022级硕士生, 双硕士: 南巴黎电信学校 和 巴黎理工学院(Télécom SudParis ＆Institut Polytechnique de Paris )</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_wangshaofeng.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              王少烽，2021级口腔正畸学博士生，本科：南京医科大学
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
@@ -218,6 +248,18 @@ redirect_from:
                   <img src="https://yongjinliu.github.io/images/IMG_yanfei.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              闫飞，访问学者（2022-2023），博士：东京工业大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_guoying.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              郭颖，访问学者（2023-2024），博士：上海交通大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_wangqi.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              王崎，访问学者（2023-2024），博士：Hasselt University，广东工业大学（双博士学位）</td>
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
