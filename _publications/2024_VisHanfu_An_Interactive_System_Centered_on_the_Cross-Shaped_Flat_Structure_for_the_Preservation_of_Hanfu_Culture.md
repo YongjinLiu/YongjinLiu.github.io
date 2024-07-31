@@ -17,8 +17,5 @@ Abstract: Hanfu, which embodies the exceptional artistry of dying, weaving, and 
 [Download paper here](http://yongjinliu.github.io/files/2024_VisHanfu_An_Interactive_System_Centered_on_the_Cross-Shaped_Flat_Structure_for_the_Preservation_of_Hanfu_Culture.pdf)
 
 
-
-[Download appendix here](http://yongjinliu.github.io/files/2024_VisHanfu_An_Interactive_System_Centered_on_the_Cross-Shaped_Flat_Structure_for_the_Preservation_of_Hanfu_Culture.pdf)
-
 Recommended citation: Minjing Yu,Lingzhi Zeng, Qiantian Liao, Xinxin Du,Jenny Sheng, Ziqi Ren, Yanzhi E, Huamin Wang,Yong-Jin Liu*.VisHanfu: An Interactive System Centered on the Cross-Shaped Flat Structure for the Preservation of Hanfu Culture.CHI 2024.
 
