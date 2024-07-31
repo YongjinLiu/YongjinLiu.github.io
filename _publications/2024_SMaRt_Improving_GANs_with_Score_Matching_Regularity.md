@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024_SMaRt_Improving_GANs_with_Score_Matching_Regularity
 excerpt: ''
 date: 2024-07-27
-venue: 'ICML'24'
+venue: 'ICML'
 tags:
   - Conference Publications
 citation: 'Mengfei Xia, Yujun Shen, Ceyuan Yang, Ran Yi, Wenping Wang, Yong-Jin Liu. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:54133-54155, 2024.'
