@@ -17,8 +17,5 @@ Abstract: Generative adversarial networks (GANs) usually struggle in learning fr
 [Download paper here](http://yongjinliu.github.io/files/2024_SMaRt_Improving_GANs_with_Score_Matching_Regularity.pdf)
 
 
-
-[Download appendix here](http://yongjinliu.github.io/files/2024_SMaRt_Improving_GANs_with_Score_Matching_Regularity.pdf)
-
 Recommended citation: Mengfei Xia, Yujun Shen, Ceyuan Yang, Ran Yi, Wenping Wang, Yong-Jin Liu. Proceedings of the 41st International Conference on Machine Learning, PMLR 235:54133-54155, 2024.
 
