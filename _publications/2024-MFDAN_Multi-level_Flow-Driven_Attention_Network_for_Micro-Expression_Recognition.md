@@ -1,26 +1,25 @@
 ---
-title: "Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement"
+title: "MFDAN Multi-level Flow-Driven Attention Network for Micro-Expression Recognition"
 collection: publications
-permalink: /publication/2024-Indoor_Scene_Reconstruction_with_Fine-Grained_Details_Using_Hybrid_Representation_and_Normal_Prior_Enhancement
+permalink: /publication/2024-MFDAN_Multi-level_Flow-Driven_Attention_Network_for_Micro-Expression_Recognition
 excerpt: ''
-date: 2024-08-16
-venue: ' IEEE Transactions on Visualization and Computer Graphics'
+date: 2024-08-02
+venue: '  IEEE Transactions on Circuits and Systems for Video Technology '
 tags:
   - Journal Publications
-citation: ' Sheng Ye, Yubin Hu, Matthieu Lin, Yu-Hui Wen, Wang Zhao, Wenping Wang, Yong-Jin Liu*, "Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3444036.'
+citation: 'W. Cai et al., "MFDAN: Multi-level Flow-Driven Attention Network for Micro-Expression Recognition," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3437481.'
 ---
 
-Abstract: The reconstruction of indoor scenes from multi-view RGB images is challenging due to the coexistence of flat and texture-less regions alongside delicate and fine-grained regions. Recent methods leverage neural radiance fields aided by predicted surface normal priors to recover the scene geometry. These methods excel in producing complete and smooth results for floor and wall areas. However, they struggle to capture complex surfaces with high-frequency structures due to the inadequate neural representation and the inaccurately predicted normal priors. This work aims to reconstruct high-fidelity surfaces with fine-grained details by addressing the above limitations. To improve the capacity of the implicit representation, we propose a hybrid architecture to represent low-frequency and high-frequency regions separately. To enhance the normal priors, we introduce a simple yet effective image sharpening and denoising technique, coupled with a network that estimates the pixel-wise uncertainty of the predicted surface normal vectors. Identifying such uncertainty can prevent our model from being misled by unreliable surface normal supervisions that hinder the accurate reconstruction of intricate geometries. Experiments on the benchmark datasets show that our method outperforms existing methods in terms of reconstruction quality. Furthermore, the proposed method also generalizes well to real-world indoor scenarios captured by our hand-held mobile phones. Our code is publicly available at: https://github.com/yec22/Fine-Grained-Indoor-Recon .
+Abstract: Facial expressions are an essential part of human emotional communication, and micro-expressions (MEs), as transient and imperceptible non-verbal signals, can potentially reveal real human emotions. However, subtle motion variations, limited and unbalanced samples make micro-expression recognition (MER) challenging. In this paper, we design a novel dual-branch learning framework of multi-level flow-driven attention for micro-expression recognition (MFDAN), which innovatively integrates optical flow prior to guide the attention learning in the image encoding branch, enabling the model to focus on the most discriminative facial regions for subtle motion patterns. Firstly, we extract optical flow information by an optical flow encoding module. Then, in the image coding module, we construct a Transformer structure containing an optical flow-driven attention mechanism, which can effectively locate the interest region of micro-expressions in the image according to the position information of optical flow to capture more sensitive and fine-grained micro-expressions. By interoperating prior knowledge with data learning, and introducing the Dropkey operation and Focal Loss, our method can handle subtle micro-expression features on small imbalanced datasets. Through extensive experiments on three independent datasets and a composite database, including SMIC-HS, SAMM, and CASME II, robust leave-one-subject-out (LOSO) evaluation results show that our method outperforms state-of-the-art methods especially on the composite database.
 
 
 
-[Download paper here](http://yongjinliu.github.io/files/2024-Indoor_Scene_Reconstruction_with_Fine-Grained_Details_Using_Hybrid_Representation_and_Normal_Prior_Enhancement.pdf)
+[Download paper here](http://yongjinliu.github.io/files/2024-MFDAN_Multi-level_Flow-Driven_Attention_Network_for_Micro-Expression_Recognition.pdf)
 
 
 [More information](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm)
 
-Recommended citation:Sheng Ye, Yubin Hu, Matthieu Lin, Yu-Hui Wen, Wang Zhao, Wenping Wang, Yong-Jin Liu*, "Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3444036.
-
+Recommended citation:W. Cai et al., "MFDAN: Multi-level Flow-Driven Attention Network for Micro-Expression Recognition," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3437481.
 
 
 
