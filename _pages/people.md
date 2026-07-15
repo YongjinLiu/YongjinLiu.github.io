@@ -377,7 +377,7 @@ redirect_from:
             </tr>
   <tr class="txt">
             <td width="20%" valign="middle" align="middle">
-                  <img src="https://yongjinliu.github.io/images/IMG_yixinyue.jpg" width="113" height="139">
+                  <img src="https://yongjinliu.github.io/images/IMG_GraceYi.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">                  Grace Yi 衣心悦，2024级硕士，本科：加州大学伯克利分校</td>
             </tr>
