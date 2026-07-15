@@ -298,12 +298,114 @@ redirect_from:
             <td width="80%" valign="top">                  周超，博士后，（2021-2023），博士：辽宁师范大学</td>
             </tr>
             <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_duxinxin.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  杜欣欣，博士后（2023-2025），博士：中国科学院心理研究所</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liangyaqian.png" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  梁亚倩，博士后（2023-2025），博士：武汉大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_zhangyanhua.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  张艳华，访问学者（2024-2025），硕士：南开大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_ailisi.png" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	Perevoznikova Alisa（爱丽丝），2023级硕士生，本科：Higher School of Economics (HSE University, 高等经济学院)</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_huyubin.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  胡钰彬，2020级直博生，本科：清华大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_xiamengfei.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	夏萌霏，2020级直博生，本科：清华大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liuniqi.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	刘妮琦，2022级硕士生，本科: 清华大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_huangjianyuan.png" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  Daniel Huang（黄建源），2022级硕士生，双硕士：南巴黎电信学院&巴黎理工学院，Télécom SudParis & Institut Polytechnique de Paris（TSP & IP Paris）</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_pankaiwen.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	Kevin Pruvost 潘凯文，2023级硕士生，硕士：EPITECH Paris</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_sunzhiyao.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	孙志尧，2021级直博生，本科：清华大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_fanruoyu.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	樊若雨，2021级直博生，本科：清华大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_yangpei.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  杨培，2020级博士生，本科：内蒙古大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_dongzhenhui.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	董祯慧，2023级硕士生, 本科:战略支援部队信息工程大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_yixinyue.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  Grace Yi 衣心悦，2024级硕士，本科：加州大学伯克利分校</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liutong.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	刘童，博士后（2024-2026），博士：武汉大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_zhangxin.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  	仉新，访问学者（2025-2026），博士：沈阳工业大学</td>
+            </tr>
+  <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liuhuaisong.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  刘淮松，2018级创新领军工程博士，本科：南开大学</td>
+            </tr>
+            <tr class="txt">
                   <td width="20%" valign="middle" align="middle">
                         工作或在读：
                         <b></b>
                         <b></b>
                   </td>
             <td width="80%" valign="top"> 
-                  杜欣欣，梁亚倩，刘童，杨雪，刘淮松，夏萌霏，胡钰彬，杨培，孙志尧，樊若雨，林裕鸿，嵇文麒，王福堂，吕天，叶盛，何雨泽，王劭聪，雷长松，刘妮琦，董祯慧，黄建源，盛芊芊，爱丽丝，丁慧，任子琪
+                  杨雪，李明，盛焕坤，范业莹，嵇文麒，林裕鸿，吕天，叶盛，何雨泽，王劭聪，雷长松，周禹，盛芊芊，温铠瑞，爱丽丝，方何睿，戴天乐，魏亦翔，刘雅迪，张涛，杨奚诚，丁慧，任子琪
             </td>
             </tr>
