@@ -22,9 +22,8 @@ Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at
 
 # Contact Information
 
-<strong>Office:</strong> Room 3-530, Information Technology Building (FIT), Tsinghua University.
+<strong>Office:</strong> Room 1004, BaiChuan Building, Tsinghua University.
 
-<strong>Email:</strong> liuyongjin@tsinghua.edu.cn
 
 <strong>Homepage:</strong> <a href="https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm" target="_blank">Tsinghua Homepage</a>
 
