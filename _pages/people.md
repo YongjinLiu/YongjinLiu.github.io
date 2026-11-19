@@ -399,6 +399,12 @@ redirect_from:
             </td>
             <td width="80%" valign="top">                  刘淮松，2018级创新领军工程博士，本科：南开大学</td>
             </tr>
+    <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_yangxue.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  杨雪，博士后（2024-2026），博士：福州大学</td>
+            </tr>
             <tr class="txt">
                   <td width="20%" valign="middle" align="middle">
                         工作或在读：
@@ -406,6 +412,6 @@ redirect_from:
                         <b></b>
                   </td>
             <td width="80%" valign="top"> 
-                  杨雪，李明，盛焕坤，范业莹，嵇文麒，林裕鸿，吕天，叶盛，何雨泽，王劭聪，雷长松，周禹，盛芊芊，温铠瑞，爱丽丝，方何睿，戴天乐，魏亦翔，刘雅迪，张涛，杨奚诚，丁慧，任子琪
+                  李明，盛焕坤，范业莹，嵇文麒，林裕鸿，吕天，叶盛，何雨泽，王劭聪，雷长松，周禹，盛芊芊，温铠瑞，爱丽丝，方何睿，戴天乐，魏亦翔，刘雅迪，张涛，杨奚诚，丁慧，任子琪
             </td>
             </tr>
